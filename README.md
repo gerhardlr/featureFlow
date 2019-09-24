@@ -1,2 +1,2 @@
 # featureFlow
-this is the master at state 0
+this is the feature branch at state 1
